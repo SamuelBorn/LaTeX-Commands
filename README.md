@@ -24,7 +24,7 @@
 | $\mathcal O$                                                                                                                                                                | \mathcal O      |
 | $\mathbb N$                                                                                                                                                                 | \mathbb N       |
 | $\overset{\text{A5}}{=}$                                                                                                                                                    | \overset{A5}{=} |
-| $\begin{pmatrix}1 & 2\\ a & b\end{pmatrix}$ $\begin{bmatrix}1 & 2\\ a & b\end{bmatrix}$ $\begin{matrix}1 & 2\\ a & b\end{matrix}$ $\begin{vmatrix}1 & 2\\ a & b \end{vmatrix}$ |                 |
+| $\begin{pmatrix}1 & 2\\ a & b\end{pmatrix}$ $\begin{bmatrix}1 & 2\\ a & b\end{bmatrix}$ $\begin{matrix}1 & 2\\ a & b\end{matrix}$ $\begin{vmatrix} 1 & 2 \\ a & b \end{vmatrix}$ |                 |
 
 | Neuer Befehl                                          |
 | ----------------------------------------------------- |
