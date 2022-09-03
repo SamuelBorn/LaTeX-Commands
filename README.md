@@ -15,6 +15,7 @@
 | $\Leftrightarrow$                                                                                                                                                                | \Leftrightarrow |
 | $\land$                                                                                                                                                                          | \land           |
 | $\lor$                                                                                                                                                                           | \lor            |
+| $\oplus$                                                                                                                                                                         | \oplus          |
 | $\square$                                                                                                                                                                        | \square         |
 | $\triangle$                                                                                                                                                                      | \triangle       |
 | $\varphi$                                                                                                                                                                        | \varphi         |
