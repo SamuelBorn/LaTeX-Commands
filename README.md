@@ -34,6 +34,7 @@
 | Neuer Befehl                                          |
 | ----------------------------------------------------- |
 | \newcommand{\*}{\cdot}                                |
+| \newcommand{\eps}{\varepsilon}                        |
 | \newcommand{\imp}{\Rightarrow}                        |
 | \newcommand{\gdw}{\Leftrightarrow}                    |
 | \newcommand{\ceil}[1]{\left \lceil #1 \right \rceil } |
